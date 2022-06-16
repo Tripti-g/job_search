@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tripti-g.github.io/referme",
+  "homepage": "https://Tripti-g.github.io/job_search",
   "dependencies": {
     "@babel/plugin-syntax-jsx": "^7.16.7",
     "@emotion/react": "^11.8.2",
